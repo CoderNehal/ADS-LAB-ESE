@@ -1,0 +1,68 @@
+body {
+  background-color: #cfd138;
+  font-family: 'Times New Roman', Times, serif;
+}
+.container * {
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.facultyLogin {
+  text-align: center;
+  border: 2px solid rgb(85, 233, 109);
+  border-radius: 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.facultyLoginH3 {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+
+.facultyLoginButton {
+  background-color: rgb(85, 233, 109);
+  width: 100px;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+
+.facultyLoginButton:hover {
+  background-color: rgb(186, 231, 186);
+}
+
+.studentLogin {
+  text-align: center;
+  border: 2px solid rgb(85, 233, 109);
+  border-radius: 5px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+.studentLoginH3 {
+  display: inline-block;
+  width: 150px;
+  text-align: left;
+}
+
+.studentLoginButton {
+  background-color: rgb(85, 233, 109);
+  width: 100px;
+  height: 30px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+}
+
+.studentLoginButton:hover {
+  background-color: rgb(186, 231, 186);
+}
+
+.homeImg {
+  margin-left: 15%;
+  margin-right: 15%;
+  
+}
